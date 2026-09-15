@@ -8,10 +8,10 @@ Four candidate solutions for this competency, pending selection of a real custom
 
 | Account | Solution | Key AWS Services | Assigned |
 |---|---|---|---|
-| TBD | **Internal Ticketing & Request Portal** — employees log an issue; support tracks and resolves it. | AWS Transform, Amazon EC2, CloudFormation/CDK | TBD |
-| TBD | **Approval & Workflow System** — staff submit a request; a manager approves or rejects it. | AWS Transform, Amazon EC2, AWS CDK | TBD |
-| TBD | **Internal Operations & Asset Tracking** — staff check equipment in/out; a background job reconciles counts. | AWS Transform, Amazon ECS (Fargate), Amazon EC2, Terraform | TBD |
-| TBD | **Financial Approval & Reimbursement Workflow** — staff submit a request with documentation; finance reconciles it. | AWS Transform, Amazon EC2, CloudFormation/CDK | TBD |
+| Jaramarket | **Internal Ticketing & Request Portal** — employees log an issue; support tracks and resolves it. | AWS Transform, Amazon EC2, CloudFormation/CDK | Samuel |
+| Africa Prudential | **Approval & Workflow System** — staff submit a request; a manager approves or rejects it. | AWS Transform, Amazon EC2, AWS CDK | Chijioke |
+| Accion | **Internal Operations & Asset Tracking** — staff check equipment in/out; a background job reconciles counts. | AWS Transform, Amazon ECS (Fargate), Amazon EC2, Terraform | John |
+| Toyota | **Financial Approval & Reimbursement Workflow** — staff submit a request with documentation; finance reconciles it. | AWS Transform, Amazon EC2, CloudFormation/CDK | Cynthia |
 
 ---
 
